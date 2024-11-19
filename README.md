@@ -1,4 +1,4 @@
-# SeDA-Secure-and-Efficient-DNN-Accelerators-with-Hardware-Software-Synergy
+# Secure and Efficient DNN Accelerators with Hardware/Software Synergy
 
 
 ## DNN Simulator (SCALE-Sim2)
